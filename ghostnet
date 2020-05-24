@@ -414,14 +414,22 @@ def usage(purple='\033[35m'):
 	__version__ = "1.1"
 
 	txt =\
-'''\033[33m_______ _______ _______ _______ _______ _______ _______ _______
-|\     /|\     /|\     /|\     /|\     /|\     /|\     /|\     /|
-| +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
-| |   | | |   | | |   | | |   | | |   | | |   | | |   | | |   | |
-| |G  | | |h  | | |0  | | |s  | | |t  | | |N  | | |3  | | |T  | |
-| +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ | +---+ |
-|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|
-			\033[0mH@unt your victim\033[0m\033[33m
+'''\033[33m       XXXXX   NNNNN         NNNNN
+     XX     XX N    N        N   N
+    X         XN     N       N   N
+   X           X      N      N   N
+   X X X       X   N   N     N   N
+  X  X X    XX  X  NN   N    N   N
+  X        X  X X  N N   N   N   N
+  X Z Z Z     X X  N  N   N  N   N
+  X ZZZZZ    X   X N   N   N N   N
+  X ZZZZZ        X N    N   NN   N
+   X ZZZZZ       X N     N   N   N
+   X V V V      X  N      N      N
+    X         XX   N       N     N
+     XXX    XX N   N        N    N
+        XXXX   NNNNN         NNNNN
+    \033[0mGh0stN3T @~ HUNT YOUR VICTIM ~\033[0m\033[33m
 [Author]:# {0}
 \033[33m[Version]:# {1}
 \033[33m[\033[1;92m{2}\033[1;93m@\033[1;94m{3}\033[33m]─[\033[1;92m{4}\033[33m]$\033[1;92m{5} \033[33m[\033[1;92mstart\033[33m|\033[1;92mstop\033[33m|\033[1;92mstatus\033[33m]
